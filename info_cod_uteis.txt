@@ -1,2 +1,0 @@
-expl para tornar as informações serializáveis ​​em JSON:
-print(json.dumps(ydl.sanitize_info(info)))

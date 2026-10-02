@@ -1,2 +1,0 @@
-instalação do yt-dlp: https://github.com/yt-dlp/yt-dlp/wiki/Installation
-instruções de uso: https://github.com/yt-dlp/yt-dlp/blob/master/README.md#general-options
